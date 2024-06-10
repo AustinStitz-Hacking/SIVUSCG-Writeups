@@ -4,6 +4,10 @@ The threat actors from last season are back at it again with a new and improved 
 
 Author: [tsuto](https://github.com/jselliott)
 
+**Files:** [chips_and_dip_redux.zip](Files/chips_and_dip_redux.zip)
+
+## Writeup
+
 In this challenge, we're given a zip file we first need to extract...
 
 When we do this, we get a PCAP file and a `.core` file.
