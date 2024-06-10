@@ -6,6 +6,8 @@ Treverse the perilous maze and win a prize!
 
 Author: [tsuto](https://github.com/jselliott)
 
+## Writeup
+
 Since we were given a netcat host and port, the first thing we need to do is check it out!
 
 ![Image 1](Screenshots/1.png)
