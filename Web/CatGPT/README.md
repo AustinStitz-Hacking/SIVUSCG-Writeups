@@ -10,6 +10,10 @@ Update: Due to possible inconsistencies between local builds made with the provi
 
 Author: [tsuto](https://github.com/jselliott)
 
+**Files:** cat-gpt.zip (Too big), cat-gpt.tar (Too big, in Google storage link)
+
+## Writeup
+
 Luckily, for this challenge, we are given a zip file of the source code for the website.
 
 First, we need to unzip it to look through the code. 
