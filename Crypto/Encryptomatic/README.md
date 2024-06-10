@@ -6,6 +6,8 @@ Our new Encryptomatic tool makes securing your messages a snap!
 
 Author: [tsuto](https://github.com/jselliott)
 
+**Files:** [main.py](Files/main.py)
+
 ## Writeup
 
 Since we're given the code for this TCP server, the best way to start is analyzing the code!
