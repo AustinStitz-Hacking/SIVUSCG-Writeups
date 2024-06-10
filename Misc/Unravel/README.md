@@ -6,6 +6,8 @@ Additional details are provided on the index page of the challenge.
 
 [https://uscybercombine-s4-unravel.chals.io/](https://uscybercombine-s4-unravel.chals.io/)
 
+**Files:** [unravel_exploit.pcap](Files/unravel_exploit.pcap)
+
 ## Writeup
 
 So, for this challenge, we have two things: a PCAP file and a website.
