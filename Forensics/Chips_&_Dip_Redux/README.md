@@ -1,4 +1,4 @@
-# Forensics: Chips & Dip Redux (481)
+# Forensics: Chips & Dip Redux (467)
 
 The threat actors from last season are back at it again with a new and improved implant that they used to steal the flag. See if you can figure out how to crack it....
 
