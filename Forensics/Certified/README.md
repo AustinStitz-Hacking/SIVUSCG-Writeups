@@ -4,6 +4,10 @@ One of our machines was recently hit with malware and appears to have opened a b
 
 Author: [tsuto](https://github.com/jselliott)
 
+**Files:** [certified.pcapng](Files/certified.pcapng)
+
+## Writeup
+
 In this challenge, we are given a PCAP file. First, we need to open in Wireshark.
 
 When we do, we see first some HTTP traffic and then TLS traffic. However, we also see in the request to `/backdoor.php` an RSA key which is very helpful!
