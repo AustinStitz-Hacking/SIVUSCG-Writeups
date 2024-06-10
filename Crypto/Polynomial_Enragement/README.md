@@ -4,6 +4,8 @@ Since when did polynomials become so confusing... Glad it's not over a field ;)
 
 Author: SuperBeetleGamer
 
+**Files**: [chall.sage](Files/chall.sage), [output3.txt](Files/output3.txt)
+
 ## Writeup
 
 The first step here is to look at our code and our output.
