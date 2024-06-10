@@ -1,4 +1,4 @@
-# Misc: Uh-MAZE-ing (293)
+# Misc: Uh-MAZE-ing (244)
 
 Treverse the perilous maze and win a prize!
 
