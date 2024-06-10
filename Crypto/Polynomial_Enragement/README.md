@@ -1,4 +1,4 @@
-# Crypto: Polynomial Enragement (489)
+# Crypto: Polynomial Enragement (484)
 
 Since when did polynomials become so confusing... Glad it's not over a field ;)
 
