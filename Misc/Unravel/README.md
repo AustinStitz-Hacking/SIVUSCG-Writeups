@@ -6,6 +6,8 @@ Additional details are provided on the index page of the challenge.
 
 [https://uscybercombine-s4-unravel.chals.io/](https://uscybercombine-s4-unravel.chals.io/)
 
+## Writeup
+
 So, for this challenge, we have two things: a PCAP file and a website.
 
 First, we can open Wireshark to look through the PCAP.
