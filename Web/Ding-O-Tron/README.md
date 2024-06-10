@@ -6,6 +6,8 @@ What came first? The ding...or the flag?
 
 Author: [tsuto](https://github.com/jselliott)
 
+## Writeup
+
 When we go to the website, we can see that we are apparently supposed to ding the bell 9000 times.
 
 ![Image 1](Screenshots/1.png)
