@@ -4,6 +4,10 @@ This is a website where Villains can get short-term rentals for their nerfarious
 
 [https://uscybercombine-s4-villainbnb.chals.io/](https://uscybercombine-s4-villainbnb.chals.io/)
 
+**Files:** VillainBnB.zip (Too big)
+
+## Writeup
+
 For this web challenge, we are given a zip file of the code. First, we need to extract it, and then everything we need is in app.py.
 
 Here, we can see first that there is a wrapper for URLs that can only be accessed locally.
