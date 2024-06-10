@@ -4,6 +4,10 @@ Finally, a programming language that is Gen Z approved!
 
 Author: [tsuto](https://github.com/jselliott)
 
+**Files:** [program.emo](Files/program.emo), [runtime.pyc](Files/runtime.pyc)
+
+## Writeup
+
 This reversing challenge isn't like most reversing challenges I've seen before. It doesn't have any binaries, just Python bytecode. And the goal isn't to reverse the Python bytecode, but to understand a fake programming language based on emojis to then get a flag! 
 
 The first step is to disassemble the Python code. We can do this by starting a Python REPL and running the following:
