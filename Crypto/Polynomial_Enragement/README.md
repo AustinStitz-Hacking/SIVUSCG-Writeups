@@ -4,6 +4,8 @@ Since when did polynomials become so confusing... Glad it's not over a field ;)
 
 Author: SuperBeetleGamer
 
+## Writeup
+
 The first step here is to look at our code and our output.
 
 Looking in our output, a text file, we can see that our ciphertext isn't like most: it's a polynomial.
