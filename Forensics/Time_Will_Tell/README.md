@@ -6,6 +6,10 @@ Lots of layers...like this challenge.
 
 Author: r0m
 
+**Files:** TimeWillTell.vmem (Too big to push to GitHub)
+
+## Writeup
+
 To start, we get a `.vmem` file, indicating that we have a memory dump! Therefore, we should start by analyzing this with Volatility!
 
 The machine is running Windows, which is easy to see either by checking the image info in Volatility or using strings. Anyways, one of the easiest ways to use Volatility is by the Docker container!
