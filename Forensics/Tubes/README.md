@@ -4,6 +4,10 @@ The internet is a series of tubes...
 
 *ssh -i id_uscg uscg@tubes.challs.uscybergames.com*
 
+**Files:** [id_uscg](Files/id_uscg)
+
+## Writeup
+
 In this challenge, we're given an RSA key and an SSH user and host.
 
 We need to change the permissions of the key by using `chmod 600 id_uscg`, but once we do this, we can connect!
