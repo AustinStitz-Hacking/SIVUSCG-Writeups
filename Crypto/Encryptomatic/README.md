@@ -1,4 +1,4 @@
-# Crypto: Encryptomatic (132)
+# Crypto: Encryptomatic (100)
 
 Our new Encryptomatic tool makes securing your messages a snap!
 
