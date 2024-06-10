@@ -4,6 +4,10 @@ There's that strange ticking noise again....
 
 Author: [tsuto](https://github.com/jselliott)
 
+**Files:** [tickticktick.pcap](Files/tickticktick.pcap)
+
+## Writeup
+
 For this challenge, we're given a PCAP file with a bunch of NTP traffic.
 
 ![Image 1](Screenshots/1.png)
