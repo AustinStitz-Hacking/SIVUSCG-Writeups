@@ -1,4 +1,4 @@
-# Reverse Engineering: Emoticonsole 2 (491)
+# Reverse Engineering: Emoticonsole 2 (481)
 
 Our new emoji-powered PC has advanced significantly since the last release after some feedback from our Gen-Z interns.
 
