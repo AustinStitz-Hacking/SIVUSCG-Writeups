@@ -4,6 +4,10 @@ Our new emoji-powered PC has advanced significantly since the last release after
 
 Author: [tsuto](https://github.com/jselliott)
 
+**Files:** [program.emo](Files/program.emo), [runtime.pyc](Files/runtime.pyc)
+
+## Writeup
+
 This challenge is a sequel to another challenge in this CTF, Emoticonsole. The process of solving it is similar, but we have both a more complex language and a more complex program.
 
 It is possible to solve this statically, that is by just reading the code in emojis, but it is much easier to solve this dynamically.
