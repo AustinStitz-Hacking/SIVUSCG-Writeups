@@ -6,6 +6,10 @@ The new USCG file storage server has a lot of cool security features to keep you
 
 Author: [tsuto](https://github.com/jselliott)
 
+**Files:** [challenge.zip](Files/challenge.zip)
+
+## Writeup
+
 Luckily, we are given the source code for this web challenge!
 
 First, we can see a flag.txt file (not the real flag) in the root directory. And in our Dockerfile, we can see that the flag is in the root directory.
